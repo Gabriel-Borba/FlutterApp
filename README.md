@@ -6,8 +6,7 @@ Simple quiz project that cover up the basics of Dart and flutter
 #
 Based on the udemy course: https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
 #
-.Dart Basics
-#
+
 	- Variables, Functions, Types 
 #
   	- Objects & Object-orientation
@@ -15,8 +14,7 @@ Based on the udemy course: https://www.udemy.com/course/learn-flutter-dart-to-bu
 	- Inheritance
 #	
 	- if Statements & Ternary Expressions
-##
- .Flutter Basics
+
 #
 	- Building a Widget Tree 
 #
